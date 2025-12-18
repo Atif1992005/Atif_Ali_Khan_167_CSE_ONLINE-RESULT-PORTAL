@@ -1,0 +1,6 @@
+XAMPP (Apache + MySQL)
+PHP 7.4 or above
+MySQL 5.7 or above
+Web Browser (Chrome / Edge / Firefox)
+Text Editor (VS Code / Notepad++)
+phpMyAdmin
